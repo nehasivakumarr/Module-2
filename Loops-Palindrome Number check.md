@@ -34,4 +34,4 @@ else:
 
 
 ## Result
-Thus, the python program that checks whether a given number is a **palindrome** using loops.
+Thus, the python program that checks whether a given number is a **palindrome** using loops has been executed successfully.
